@@ -16,6 +16,4 @@ void draw() {
   rect(width/2-2, (height/2+width*0.4 - mouseY) * 0.5 + mouseY , 4, 5);
   
   rect(width/2-10, (height/2+width*0.4 - mouseY) * 3 / 4 + mouseY , 20, 5);
-
-  
 }
